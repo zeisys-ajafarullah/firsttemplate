@@ -1,0 +1,5 @@
+/Users/gani4us/Projects/NestGroup/Gateway/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gani4us/Projects/NestGroup/Gateway/bin/Gateway.dll.mdb
+/Users/gani4us/Projects/NestGroup/Gateway/bin/Gateway.dll
+/Users/gani4us/Projects/NestGroup/Gateway/obj/Debug/Gateway.dll
+/Users/gani4us/Projects/NestGroup/Gateway/obj/Debug/Gateway.dll.mdb
